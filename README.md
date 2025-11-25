@@ -150,14 +150,6 @@ Aplikasi menggunakan **MediaStore API** untuk menyimpan foto:
 - **Solusi**: `targetRotation` sudah diset otomatis
 - Verifikasi EXIF data di properties foto
 
-## 📸 Screenshot
-
-*(Tambahkan screenshot aplikasi Anda di sini)*
-
-| Preview | Capture | Gallery |
-|---------|---------|---------|
-| ![Preview](screenshots/preview.png) | ![Capture](screenshots/capture.png) | ![Gallery](screenshots/gallery.png) |
-
 ## 👨‍💻 Author
 
 **SILVANA ARAYUNDA**
@@ -185,9 +177,3 @@ Aplikasi menggunakan **MediaStore API** untuk menyimpan foto:
 | Preview Quality | ✅ Bagus | Tidak ada lag |
 | Flash | ✅ Works | On/Off responsive |
 
-## 📚 Referensi
-
-- [CameraX Documentation](https://developer.android.com/training/camerax)
-- [Jetpack Compose](https://developer.android.com/jetpack/compose)
-- [MediaStore API](https://developer.android.com/training/data-storage/shared/media)
-- [Modul Praktikum](BAB_9_CameraX.pdf)
